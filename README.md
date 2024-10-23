@@ -7,6 +7,30 @@
 ## Project Overview
 The *Adventure Works Dashboard* is an interactive Power BI tool that provides insights into the company's performance across various dimensions, including revenue trends, sales performance, product analysis, and customer insights. The dashboard enables stakeholders to explore key metrics, track performance, and make data-driven decisions.
 
+**Disclaimer**: The datasets used are purely for demonstration purposes and do not represent any specific company, institution or country.
+
+## Skills Demonstrated
+The following Power Bi features are incorporated.
+-DAX
+-New Measures
+-Filters
+-Modelling
+
+## Modelling 
+The datasets adopts a star schema, comprising the fact tables: sales table and the returns table which serves as the transactional table while the Customers Products and Territory tables offer supplementary information.
+
+## Visualizations
+The report encompasses four pages:
+1. The Overview Page
+2. Sales Performance
+3. Product Performance
+4. Customer Performance.
+
+You can interact with the report
+[here](
+
+
+
 ## Pages and Key Metrics
 
 ### 1. Overview
