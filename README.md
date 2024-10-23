@@ -12,7 +12,8 @@ This page provides a high-level summary of the company's overall performance, in
 - *Category Performance*: Shows revenue distribution across different product categories.
 - *Continent Performance*: Displays revenue contribution from different continents to track regional performance.
 
-![overview Page]("C:\Users\AJAMOLE FOLAKE\Pictures\Screenshots\Overview.png")
+![Overview Page]("C:\Users\AJAMOLE FOLAKE\Pictures\Screenshots\Overview.png").
+
 
 
 ### 2. Sales Performance
