@@ -1,6 +1,6 @@
 # AdventureWorks_Dashboard
 
-![](![adv](https://github.com/user-attachments/assets/836c7204-5d30-4751-bc57-f0cf6b21f7ba)
+(![adv](https://github.com/user-attachments/assets/836c7204-5d30-4751-bc57-f0cf6b21f7ba)
 
 
 
