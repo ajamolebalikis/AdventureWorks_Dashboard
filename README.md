@@ -1,5 +1,9 @@
 # AdventureWorks_Dashboard
 
+![](![adv](https://github.com/user-attachments/assets/836c7204-5d30-4751-bc57-f0cf6b21f7ba)
+
+
+
 ## Project Overview
 The *Adventure Works Dashboard* is an interactive Power BI tool that provides insights into the company's performance across various dimensions, including revenue trends, sales performance, product analysis, and customer insights. The dashboard enables stakeholders to explore key metrics, track performance, and make data-driven decisions.
 
