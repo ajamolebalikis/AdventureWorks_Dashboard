@@ -88,30 +88,66 @@ Orders: 3,480
 Revenue: $3,563,309.85
 Profit: $1,487,680.52
 
+![Overview](<img width="650" alt="Overview" src="https://github.com/user-attachments/assets/222097e7-40e6-4d82-a874-5db32dcb6624">
+
 ### 2. Sales Performance
 This page focuses on sales performance across multiple dimensions:
-- *Orders by Year*: Displays the total number of orders placed each year, highlighting trends.
-- *Orders by Category Name*: Breaks down orders by product categories to see which categories perform best.
-- *Orders by Product Name*: Shows individual product performance in terms of order volume.
-- *Orders by Country*: Highlights where orders are being placed geographically.
-- *Revenue and Profit by Month*: Tracks both revenue and profit trends on a monthly basis, identifying peak sales periods.
+- *Orders by Year*:
+  The data includes orders from *2015, 2016, and 2017*.
+   *2016* recorded the highest number of orders with *7.9K orders*.
+
+- *Orders by Category Name*:
+  The top-performing categories are *Accessories, Bikes, and Clothing*.
+  *Accessories* led the category performance with *9.4K orders*.
+  
+- *Orders by Product Name*:
+  The product with the highest number of orders was the *Water Bottle, which recorded **1,723 orders*.
+  
+- *Orders by Country*:
+  *North America* had the highest number of orders across all regions.
+
+- *Revenue and Profit by Month*:
+  The months with the highest revenue and profit were *May and June, reaching **0.58M* in total.
+
 
 
 ### 3. Products Performance
 This page dives into product-specific performance metrics:
-- *Top 10 Products by Revenue*: Displays the 10 best-performing products by revenue.
-- *Top 5 Products by Orders*: Highlights the top 5 products by order volume.
-- *Products by Category Name*: Breaks down products by their category and performance.
-- *Top 5 Products by Region*: Identifies how different products perform across different regions.
+- *Top 10 Products by Revenue*:
+  The highest revenue-generating product was the *Road 150 Red*.
+
+- *Top 5 Products by Orders*:
+  The *Water Bottle* led in terms of orders.
+  
+- *Products by Category Name*:
+ *Components* was the top category for product sales.
+
+- *Top 5 Products by Region*:
+  The *Road 150 Red* was the top product in terms of revenue.
+
 
 
 ### 4. Customer Performance
 This page focuses on customer demographics and performance:
-- *Customers by Marital Status*: Visualizes the distribution of customers by marital status.
-- *Profit and Revenue by Gender*: Breaks down profit and revenue by gender.
-- *Customers by Occupation*: Shows the customer base segmented by occupation, highlighting key customer groups.
-- *Profit by Age Group and Continent*: Shows how different age groups across continents contribute to profit.
-- *Customers by Age Group*: Provides insights into customer age distribution.
+- *Customers by Marital Status*:
+  Most of the customers were *Married, with a total of **9.81K* customers.
+
+- *Profit and Revenue by Gender*:
+  *Females* generated the highest revenue, while *males* generated the lowest revenue.
+   However, both *males* and *females* contributed equally to the profit.
+
+- *Customers by Occupation*:
+The highest number of customers were *Professionals, followed by **Skilled Manual, **Management, **Clerical, and **Manual* occupations.
+
+- *Profit by Age Group and Continent*:
+Sales performance across continents was also analyzed to provide insights on geographic distribution.
+
+
+- *Customers by Age Group*:
+The *Older generation* had the highest number of customers, followed by *Gen Xers* and *Millennials*.
+
+## Conclusion
+This Adventure Works dashboard provides valuable insights into orders, product trends, and customer demographics, allowing businesses to optimize their product offerings and sales strategies across various dimensions.
 
 
 ## Recommendations
@@ -125,4 +161,7 @@ Based on the analysis in the dashboard, the following recommendations are made:
 3. *Optimize Product Categories*: Invest more in the product categories that contribute significantly to both revenue and orders. Revise strategies for underperforming categories.
 
 4. *Enhance Customer Segmentation*: Leverage the insights from customer demographics (age, gender, occupation) to develop personalized marketing campaigns that better target specific customer segments.
+
+
+** THANK YOU!**
 
