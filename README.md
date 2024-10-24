@@ -55,6 +55,9 @@ This page contains various KPIs like Products, Regions, Countries and categories
  Orders by Country: This show the total orders by country. The country with the highest orders is the United States with 7.2k orders. Thus concentrated focus should be made on this country for marketing.
 
  Revenue and Profit by Month: TThis shows a trend analysis of the total revenue and profit by month May and June being the highest peak of the analysis. This implies that sales are the highest at this time of the year and thus seasonal campaigns and news products launches can contribute to this.
+
+ ![](<img width="662" alt="Screenshot 2024-10-23 085300" src="https://github.com/user-attachments/assets/fe35dbce-3a4f-4ce8-a321-32893f093285">
+)
   
 
 ### 3. Products Performance
