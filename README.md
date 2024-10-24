@@ -1,10 +1,13 @@
 # AdventureWorks_Dashboard
 
 
-## Project Overview
-The *Adventure Works Dashboard* is an interactive Power BI tool that provides insights into the company's performance across various dimensions, including revenue trends, sales performance, product analysis, and customer insights. The dashboard enables stakeholders to explore key metrics, track performance, and make data-driven decisions.
+## Introduction
+Adventure Works dataset is avaluable collection of sales data that can be used to guide in making strategic business and insights. Adventure Works is a company that specializes in production of sporting products, clothing and accessories. This dataset provides information on customers, products, dates, sales territory, and sales infromation of their day-to-day transaction of this company spanning from 2015-2017. The aim of exploring this dataset with Powerbi is to drive actionable insights with which the company can be able to satisfy the customers need while achieving maximal profit.
 
 **Disclaimer**: The datasets used are purely for demonstration purposes and do not represent any specific company, institution or country.
+
+## Problem Statement
+Adventure Works possesses a rich repository of sales and customers data, but it is fragmented and often not thoroughly analyzed, making it difficult to grasp customers need and effectively boost sales. This projects aims to dive deeply into the data to reveal patterns in customer behavior, product profitablity and sales trends. By uncovering these insights, Adventure Works can be more informed to make decision to enchance marketing strategies, refine product offerings, and ultimately drive increased sales.
 
 ## Skills Demonstrated
 The following Power Bi features are incorporated.
@@ -14,7 +17,7 @@ The following Power Bi features are incorporated.
 -Modelling
 
 ## Modelling 
-The datasets adopts a star schema, comprising the fact tables: sales table and the returns table which serves as the transactional table while the Customers Products and Territory tables offer supplementary information.
+The data modelling schema used here is star schema. It has the Facts Table which is the FactSales Table surrounded by the Dimensions table ehich are the remaining table in dataset. Each Dimension table has a one-many relationship with the FactSales Table as it contains the primary key of each dimension table connecting to her.
 
 ## Visualizations
 The report encompasses four pages:
@@ -27,133 +30,82 @@ The report encompasses four pages:
 ## Pages and Key Metrics
 
 ### 1. Overview
-This page provides a high-level summary of the company's overall performance, including:
-- *Revenue Trend*: Visualizes total revenue over time, helping track sales growth.
-  
-- *Top 5 Products Performance*: The Top five product performance which is:
-  1. Awc logo cap
-    Orders: 1126
-    Revenue: 20,452.18
-    Profit: 6,953.67
-The AWC Logo Cap stands out as the highest performer, indicating strong customer interest and effective marketing strategies.
-2. Mountain Tire Tube
-   Orders: 1108
-   Revenue: 12,080
-   Profit: 7,562.48
-3. Patch Kit (8 Patches)
- Orders: 1,485
- Revenue: $7,240.98
- Profit: $4,532.73
-4. Road Tire Tube
- Orders: 889
- Revenue: $7,780.00
- Profit: $4,870.51
-5. Water Bottle
-Orders: 1,723
-Revenue: $18,403.12
-Profit: $11,520.21
-  
-- *Category Performance*: Insights into the performance of different product categories
-1. Accessories
-Orders: 9,429
-Revenue: $204,015.14
-Profit: $128,105.89
-2. Bikes
-Orders: 5,066
-Revenue: $10,365,336.54
-Profit: $4,268,394.34
-3. Clothing
-Orders: 2,921
-Revenue: $110,760.87
-Profit: $54,436.78
+This page contains various KPI Revenue, Profits, Orders and Returns. It also shows various-visualizaton like:
 
-- *Continent Performance*: Insights into the performance from different continents to track regional performance.
- 1.  Europe
-Orders: 5,202
-Revenue: $2,958,374.58
-Profit: $122,895.45
-2. North America
-Orders: 8,734
-Revenue: $4,158,428.25
-Profit: $1,740,361.04
-3. Pacific
-Orders: 3,480
-Revenue: $3,563,309.85
-Profit: $1,487,680.52
+Revenue Trend: This hows a trend analysis of the total revenue of the year with 2016 been the highest peak of the analysis. This implies that sales are the highest at this time of the year and thus seasonal campaigns and new products launches can contribute to this.
+  
+Product Performance: Here we see the products performance by revenue, orders and profit and with AWC Logo Cap being the highest with 1126  orders, 20,452.18 revenue, 6953.67 profit. This could be as a results of seasons and also having low cost production. Thus sales of these products should be maximized.
+  
+Category Performance: Here we see the Category performance by orders, revenue and profit and with which accessories is the highest with the 9,429 orders, $204,015.16 revenue, $128, 105.89 profit. This could be as a results of strong customer interest and effective marketing strategies.
 
-![Overview](<img width="650" alt="Overview" src="https://github.com/user-attachments/assets/222097e7-40e6-4d82-a874-5db32dcb6624">
+Continent Performance: This is the continent performance by orders, revenue and profit with which North America is the highest with 8734 orders, 4,158,428.25 revenue, 1, 740,361.04 profit. North America has the highest orders, revenue and profit hus they have the highest valuable market opportunities. Thus concentrated focus should be made on the country for marketing.
+
+![]("C:\Users\AJAMOLE FOLAKE\Pictures\Screenshots\Overview.png")
+
 
 ### 2. Sales Performance
-This page focuses on sales performance across multiple dimensions:
-- *Orders by Year*:
-  The data includes orders from *2015, 2016, and 2017*.
-   *2016* recorded the highest number of orders with *7.9K orders*.
+This page contains various KPIs like Products, Regions, Countries and categories recorded. The page also contains varoius visualization like:
 
-- *Orders by Category Name*:
-  The top-performing categories are *Accessories, Bikes, and Clothing*.
-  *Accessories* led the category performance with *9.4K orders*.
+ Orders by Year: This shows a trend analysis of the total orders by year with which year 2016 is the highest of the analysis. This implies that sales were high ain the year 2016 compared to 2017 thus more awarenes and improvement in services hould be encouraged so as to aim high and get more sales.
+
+ Orders by Category Name: This shows the total orders in each categories. The Categoty with the highest sales is Accessories with 9.4K orders.
   
-- *Orders by Product Name*:
-  The product with the highest number of orders was the *Water Bottle, which recorded **1,723 orders*.
+ Orders by Product Name: This shows the total orders by products. The products with the highest orders is Water bottle with 1723 orders and also patch kit with 1485 orders and awc logo cap with 1126 orders.
+
+ Orders by Country: This show the total orders by country. The country with the highest orders is the United States with 7.2k orders. Thus concentrated focus should be made on this country for marketing.
+
+ Revenue and Profit by Month: TThis shows a trend analysis of the total revenue and profit by month May and June being the highest peak of the analysis. This implies that sales are the highest at this time of the year and thus seasonal campaigns and news products launches can contribute to this.
   
-- *Orders by Country*:
-  *North America* had the highest number of orders across all regions.
-
-- *Revenue and Profit by Month*:
-  The months with the highest revenue and profit were *May and June, reaching **0.58M* in total.
-
-
 
 ### 3. Products Performance
-This page dives into product-specific performance metrics:
-- *Top 10 Products by Revenue*:
-  The highest revenue-generating product was the *Road 150 Red*.
-
-- *Top 5 Products by Orders*:
-  The *Water Bottle* led in terms of orders.
+This page contains various charts and KPIs like Products, OrderQuantity, Profit, ProductCost. It also contains slicer like Year, Products, Country and category.
+ *Top 10 Products BY Revenue*: Here we see the top 10 products by revenue and with the Road 150 Red being the highest with $0.64M as Revenue. This could be as a results of the product having low product cost. Thus sales of this products should be maximized.
   
-- *Products by Category Name*:
- *Components* was the top category for product sales.
+- *Top 5 Products by Orders*: This shows the total orders by products. The products with the highest orders is Water bottle with 1723 orders and also patch kit with 1485 orders and awc logo cap with 1126 orders.
 
-- *Top 5 Products by Region*:
-  The *Road 150 Red* was the top product in terms of revenue.
+- *Products by Category Name*: This shows the total products in each catagories. The category with the highest numbers of products is components with 132 products, followed by bikes with 97 products, clothing with 35 products and accessories with 29 products.
+ 
+- *Top 5 Products by Region*: This shows the total products in each regions. The region with the highest numbers of products is Canada with 293 products.
 
-
+- * Top 5 Products by Profit*:  Here we see the top 10 products by revenue and with the Road 150 Red being the highest with $251,484 as Profit. This could be as a results of the product having low product cost. Thus sales of this products should be maximized.
+  
 
 ### 4. Customer Performance
-This page focuses on customer demographics and performance:
-- *Customers by Marital Status*:
+This page shows ana analysis of the customer Adventure Works. It answers some questions as to the reason behind the purchasing power of the customers. It shows several KPIs like Customers, Annual Income, Total children and occupation. I coontains several visualizations like 
+
+- *Customers by Marital Status*: Here we that larger amount of the customers are married 54.09% and the remaining customers fall under the single customers with 45.91% .
   Most of the customers were *Married, with a total of **9.81K* customers.
 
-- *Profit and Revenue by Gender*:
-  *Females* generated the highest revenue, while *males* generated the lowest revenue.
-   However, both *males* and *females* contributed equally to the profit.
+- *Profit and Revenue by Gender*: Here we can see that the female customers generate the highest revenue with 5.4M while the male generated the lowest revenue with 5.2M. However, both  males and females contributed equally to the profit.
 
-- *Customers by Occupation*:
-The highest number of customers were *Professionals, followed by **Skilled Manual, **Management, **Clerical, and **Manual* occupations.
+- *Customers by Occupation*: Here we can see that most of the customers are Professionals while few customers fall under Manual Occupation. Thus further corroborates that more revenue and profit is generated from the professional and this can be as a result of their income.
 
-- *Profit by Age Group and Continent*:
-Sales performance across continents was also analyzed to provide insights on geographic distribution.
+- *Profit by Age Group*: We can see here that the Older generation generate the highest profit with 2.17M followed by the Gen-Xers and the millennials generate the lowest amount of profit which is 0.47M.
 
+  
+- *Customers by Age Group*: This shows the number of customers we have in each age group with Old people with the highest with 9.29k customers, followed by the Gen-Xers with 6.63k customers ans the millennials with 2.23k customers.
 
-- *Customers by Age Group*:
-The *Older generation* had the highest number of customers, followed by *Gen Xers* and *Millennials*.
-
-## Conclusion
-This Adventure Works dashboard provides valuable insights into orders, product trends, and customer demographics, allowing businesses to optimize their product offerings and sales strategies across various dimensions.
 
 
 ## Recommendations
 
 Based on the analysis in the dashboard, the following recommendations are made:
 
-1. *Focus on High-Performing Products*: Prioritize the top 5 and 10 products that consistently perform well in terms of revenue and orders. These products should receive priority in inventory management and marketing.
+1. Boost Customer Engagement and Personalization: Utilizing the existing segmentation based on generation and occupation, Adventure Works should refine its strategies to personalize customer interactions.Tailored marketing campaigns and recommendations will enhance engagement, boost conversions, and improve retention rates.
    
-2. *Expand into Underperforming Regions*: Consider targeted marketing and expansion strategies in regions that contribute less revenue. Regional promotions could drive sales in these areas.
+2. Optimize Product Portfolio: Prioritize the optimization of the product portfolio by focusing on high-margin and high-demand items, such as the Mountain-200 series. By understanding the preferences of different generational and occupational segments, Adventure Works can better align its product offerings with customer needs.
+   
+3. Expand Geographically: Adventure Works should intensify its marketing efforts in Europe and explore expansion into Africa and Asia to unlock new growth opportunities. Given the strong performance in Australia and the U.S., targeting these new regions can help the company explore additional opportunities.
 
-3. *Optimize Product Categories*: Invest more in the product categories that contribute significantly to both revenue and orders. Revise strategies for underperforming categories.
+4. Seasonal Promotions and Bundling: Use seasonal data and insights from customer segmentation to strategically schedule promotions and create product bundles for peak shopping periods. This strategy will help Adventure Works increase the average order value and encourage more purchases during high-demand times.
+   
+5. Develop Customer Loyalty Programs: Leverage segmented data to create targeted loyalty programs that offer exclusive benefits, such as discounts and early access to new products. This will enhance customer retention and foster greater advocacy among high-value segments.
 
-4. *Enhance Customer Segmentation*: Leverage the insights from customer demographics (age, gender, occupation) to develop personalized marketing campaigns that better target specific customer segments.
+6. Digital Transformation and Personalization: Upgrade the e-commerce platform to deliver personalized recommendations based on customer segmentation. This enhancement will improve the online shopping experience for each customer segment, boost conversion rates, and drive sales.
+
+
+ ## Conclusion
+ Implementing these recommendations will optimize operations, enchance profitablity, and boost Adventure Works Company competitive edge in the retail landscape and also help the organization move forward.
 
 
 ** THANK YOU!**
