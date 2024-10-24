@@ -34,9 +34,9 @@ This page contains various KPI Revenue, Profits, Orders and Returns. It also sho
 
 Revenue Trend: This hows a trend analysis of the total revenue of the year with 2016 been the highest peak of the analysis. This implies that sales are the highest at this time of the year and thus seasonal campaigns and new products launches can contribute to this.
   
-Product Performance: Here we see the products performance by revenue, orders and profit and with AWC Logo Cap being the highest with 1126  orders, 20,452.18 revenue, 6953.67 profit. This could be as a results of seasons and also having low cost production. Thus sales of these products should be maximized.
+Product Performance: Here we see the products performance by revenue, orders and profit and with Water Bottle being the highest with 1723 orders, 18,403.12 revenue, 11,520.21 profit. This could be as a results of seasons and also having low cost production. Thus sales of these products should be maximized.
   
-Category Performance: Here we see the Category performance by orders, revenue and profit and with which accessories is the highest with the 9,429 orders, $204,015.16 revenue, $128, 105.89 profit. This could be as a results of strong customer interest and effective marketing strategies.
+Category Performance: Here we see the Category performance by orders, revenue and profit and with which bikes is the highest with the 5066 orders, $10,365,336.54 revenue, $4,268,394.34 profit. This could be as a results of strong customer interest and effective marketing strategies.
 
 Continent Performance: This is the continent performance by orders, revenue and profit with which North America is the highest with 8734 orders, 4,158,428.25 revenue, 1, 740,361.04 profit. North America has the highest orders, revenue and profit hus they have the highest valuable market opportunities. Thus concentrated focus should be made on the country for marketing.
 
