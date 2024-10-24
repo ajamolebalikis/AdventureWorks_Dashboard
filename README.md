@@ -56,8 +56,7 @@ This page contains various KPIs like Products, Regions, Countries and categories
 
  Revenue and Profit by Month: TThis shows a trend analysis of the total revenue and profit by month May and June being the highest peak of the analysis. This implies that sales are the highest at this time of the year and thus seasonal campaigns and news products launches can contribute to this.
 
- ![](<img width="662" alt="Screenshot 2024-10-23 085300" src="https://github.com/user-attachments/assets/fe35dbce-3a4f-4ce8-a321-32893f093285">
-)
+ ![](<img width="662" alt="Screenshot 2024-10-23 085300" src="https://github.com/user-attachments/assets/fe35dbce-3a4f-4ce8-a321-32893f093285">)
   
 
 ### 3. Products Performance
@@ -71,6 +70,9 @@ This page contains various charts and KPIs like Products, OrderQuantity, Profit,
 - *Top 5 Products by Region*: This shows the total products in each regions. The region with the highest numbers of products is Canada with 293 products.
 
 - * Top 5 Products by Profit*:  Here we see the top 10 products by revenue and with the Road 150 Red being the highest with $251,484 as Profit. This could be as a results of the product having low product cost. Thus sales of this products should be maximized.
+
+![](<img width="675" alt="Products performance" src="https://github.com/user-attachments/assets/5df0d6d4-13f9-4640-bbdd-7f3cde19e80f">)
+
   
 
 ### 4. Customer Performance
@@ -87,6 +89,12 @@ This page shows ana analysis of the customer Adventure Works. It answers some qu
 
   
 - *Customers by Age Group*: This shows the number of customers we have in each age group with Old people with the highest with 9.29k customers, followed by the Gen-Xers with 6.63k customers ans the millennials with 2.23k customers.
+
+
+![<img width="662" alt="Customers Performance" src="https://github.com/user-attachments/assets/0ff1f947-1e1d-46ff-8653-6dc5e46a06aa">
+
+
+
 
 
 
