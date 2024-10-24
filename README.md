@@ -40,7 +40,7 @@ Category Performance: Here we see the Category performance by orders, revenue an
 
 Continent Performance: This is the continent performance by orders, revenue and profit with which North America is the highest with 8734 orders, 4,158,428.25 revenue, 1, 740,361.04 profit. North America has the highest orders, revenue and profit hus they have the highest valuable market opportunities. Thus concentrated focus should be made on the country for marketing.
 
-![]("C:\Users\AJAMOLE FOLAKE\Pictures\Screenshots\Overview.png")
+![](<img width="650" alt="Overview" src="https://github.com/user-attachments/assets/f8cc7343-9e84-4329-b910-8c108099b238">)
 
 
 ### 2. Sales Performance
