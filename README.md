@@ -40,7 +40,8 @@ Category Performance: Here we see the Category performance by orders, revenue an
 
 Continent Performance: This is the continent performance by orders, revenue and profit with which North America is the highest with 8734 orders, 4,158,428.25 revenue, 1, 740,361.04 profit. North America has the highest orders, revenue and profit hus they have the highest valuable market opportunities. Thus concentrated focus should be made on the country for marketing.
 
-![](<img width="650" alt="Overview" src="https://github.com/user-attachments/assets/f8cc7343-9e84-4329-b910-8c108099b238">)
+![<img width="650" alt="Overview" src="https://github.com/user-attachments/assets/06718fab-2396-409f-b7e4-8a03cfadfdcb">
+
 
 
 ### 2. Sales Performance
@@ -56,7 +57,8 @@ This page contains various KPIs like Products, Regions, Countries and categories
 
  Revenue and Profit by Month: TThis shows a trend analysis of the total revenue and profit by month May and June being the highest peak of the analysis. This implies that sales are the highest at this time of the year and thus seasonal campaigns and news products launches can contribute to this.
 
- ![](<img width="662" alt="Screenshot 2024-10-23 085300" src="https://github.com/user-attachments/assets/fe35dbce-3a4f-4ce8-a321-32893f093285">)
+ ![<img width="665" alt="Sales performance" src="https://github.com/user-attachments/assets/d025ca8f-3084-47ce-ac09-687a7d88b1e9">
+
   
 
 ### 3. Products Performance
@@ -71,7 +73,8 @@ This page contains various charts and KPIs like Products, OrderQuantity, Profit,
 
 - * Top 5 Products by Profit*:  Here we see the top 10 products by revenue and with the Road 150 Red being the highest with $251,484 as Profit. This could be as a results of the product having low product cost. Thus sales of this products should be maximized.
 
-![](<img width="675" alt="Products performance" src="https://github.com/user-attachments/assets/5df0d6d4-13f9-4640-bbdd-7f3cde19e80f">)
+![<img width="675" alt="Products performance" src="https://github.com/user-attachments/assets/bb7ada95-0061-410a-be8c-515fe13cf684">
+
 
   
 
