@@ -53,7 +53,7 @@ This page contains various KPIs like Products, Regions, Countries and categories
   
  Orders by Product Name: This shows the total orders by products. The products with the highest orders is Water bottle with 1723 orders and also patch kit with 1485 orders and awc logo cap with 1126 orders.
 
- Orders by Country: This show the total orders by country. The country with the highest orders is the United States with 7.2k orders. Thus concentrated focus should be made on this country for marketing.
+ Orders by Country: This show the total orders by country. The country with the highest orders is the North America with 7.2k orders. Thus concentrated focus should be made on this country for marketing.
 
  Revenue and Profit by Month: TThis shows a trend analysis of the total revenue and profit by month May and June being the highest peak of the analysis. This implies that sales are the highest at this time of the year and thus seasonal campaigns and news products launches can contribute to this.
 
@@ -63,6 +63,7 @@ This page contains various KPIs like Products, Regions, Countries and categories
 
 ### 3. Products Performance
 This page contains various charts and KPIs like Products, OrderQuantity, Profit, ProductCost. It also contains slicer like Year, Products, Country and category.
+
  *Top 10 Products BY Revenue*: Here we see the top 10 products by revenue and with the Road 150 Red being the highest with $0.64M as Revenue. This could be as a results of the product having low product cost. Thus sales of this products should be maximized.
   
 - *Top 5 Products by Orders*: This shows the total orders by products. The products with the highest orders is Water bottle with 1723 orders and also patch kit with 1485 orders and awc logo cap with 1126 orders.
@@ -79,7 +80,7 @@ This page contains various charts and KPIs like Products, OrderQuantity, Profit,
   
 
 ### 4. Customer Performance
-This page shows ana analysis of the customer Adventure Works. It answers some questions as to the reason behind the purchasing power of the customers. It shows several KPIs like Customers, Annual Income, Total children and occupation. I coontains several visualizations like 
+This page shows analysis of the customer Adventure Works. It answers some questions as to the reason behind the purchasing power of the customers. It shows several KPIs like Customers, Annual Income, Total children and occupation. I coontains several visualizations like 
 
 - *Customers by Marital Status*: Here we that larger amount of the customers are married 54.09% and the remaining customers fall under the single customers with 45.91% .
   Most of the customers were *Married, with a total of **9.81K* customers.
